@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
 [![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner)-->
 
-## 𝗠𝘆 𝗧𝗲𝗰**h** 𝗦𝘁𝗮𝗰𝗸
+## *𝗠𝘆 𝗧𝗲𝗰*𝙝 *𝗦𝘁𝗮𝗰𝗸**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
