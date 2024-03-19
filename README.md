@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ## **My Experiences**
 <details>
-<summary style="font-weight:18px;">tract 2.0</summary>
+<summary style="font-weight:18;">Xtract 2.0</summary>
 A 6hr Machine Learning and Data Science Hackathon by DJS S4DS where we put all our learnings into test  
 </details>
 
