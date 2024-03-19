@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 :computer: 𝙎𝙚𝙡𝙛-𝙩𝙖𝙪𝙜𝙝𝙩 𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙 <!--𝙁𝙪𝙡𝙡𝙨𝙩𝙖𝙘𝙠--> 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧.
 
 <!--🖖 𝙑𝙪𝙚.𝙟𝙨 𝙛𝙖𝙣𝙖𝙩𝙞𝙘𝙨 | 🍎 𝙎𝙬𝙞𝙛𝙩 𝙡𝙚𝙖𝙧𝙣𝙚𝙧 | -->
-☕️ 𝘾𝙤𝙛𝙛𝙚𝙚 𝙡𝙤𝙫𝙚𝙧 | 
+☕️ 𝘾𝙤𝙛𝙛𝙚𝙚 𝙡𝙤𝙫𝙚𝙧
 
 ⚡𝘼𝙣𝙞***m***𝙚 𝙡𝙤𝙫𝙚𝙧<!--|🌵 𝘼𝙜𝙖𝙫𝙚 𝙣𝙖𝙣𝙣𝙮-->
 
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ## **My Experiences**
 <details>
-<summary>***Xtract 2.0***</summary>
+**<summary>Xtract 2.0</summary>**
 A 6hr Machine Learning and Data science hackathon where we put all our learnings into test  
 </details>
 
