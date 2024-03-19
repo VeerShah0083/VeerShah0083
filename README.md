@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙑𝙚𝙚𝙧 𝙎𝙝𝙖𝙝 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=github)](https://github.com/VeerShah0083)
+[![Github Badge](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=github)](https://github.com/VeerShah0083)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/veer-shah-real/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/veer_0609_/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/_thevsr_)
@@ -28,9 +28,11 @@ Here are some ideas to get you started:
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
-:computer: 𝙎𝙚𝙡𝙛-𝙩𝙤𝙪𝙜𝙝𝙩 𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧.
+:computer: 𝙎𝙚𝙡𝙛-𝙩𝙖𝙪𝙜𝙝𝙩 𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙 <!--𝙁𝙪𝙡𝙡𝙨𝙩𝙖𝙘𝙠--> 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧.
 
-<!--🖖 𝙑𝙪𝙚.𝙟𝙨 𝙛𝙖𝙣𝙖𝙩𝙞𝙘𝙨 | 🍎 𝙎𝙬𝙞𝙛𝙩 𝙡𝙚𝙖𝙧𝙣𝙚𝙧 | -->☕️ 𝘾𝙤𝙛𝙛𝙚𝙚 𝙡𝙤𝙫𝙚𝙧 <!--|🌵 𝘼𝙜𝙖𝙫𝙚 𝙣𝙖𝙣𝙣𝙮-->
+<!--🖖 𝙑𝙪𝙚.𝙟𝙨 𝙛𝙖𝙣𝙖𝙩𝙞𝙘𝙨 | 🍎 𝙎𝙬𝙞𝙛𝙩 𝙡𝙚𝙖𝙧𝙣𝙚𝙧 | -->
+-☕️ 𝘾𝙤𝙛𝙛𝙚𝙚 𝙡𝙤𝙫𝙚𝙧
+-⚡𝘼𝙣𝙞_**m**_𝙚 𝙡𝙤𝙫𝙚𝙧<!--|🌵 𝘼𝙜𝙖𝙫𝙚 𝙣𝙖𝙣𝙣𝙮-->
 
 
 <!--:writing_hand: 𝙄 𝙡𝙤𝙫𝙚 𝙨𝙝𝙖𝙧𝙞𝙣𝙜 𝙘𝙧𝙚𝙖𝙩𝙞𝙫𝙚 𝙩𝙚𝙘𝙝 𝙨𝙩𝙖𝙘𝙠 𝙩𝙤𝙤𝙡𝙨, 𝙮𝙤𝙪 𝙘𝙖𝙣 𝙘𝙝𝙚𝙘𝙠 [tech-stack.tools](http://github.com/xiaoluoboding/tech-stack.tools) 𝙛𝙤𝙧 𝙢𝙤𝙧𝙚 𝙙𝙚𝙩𝙖𝙞𝙡𝙨.  -->
