@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ## **My Experiences**
 <details>
 <summary>Xtract 2.0</summary>
-A 6hr Machine Learning and Data science hackathon where put our learning on to a test  
+A 6hr Machine Learning and Data science hackathon where we put all our learnings into test  
 </details>
 
 ## **My Tech Stack**
