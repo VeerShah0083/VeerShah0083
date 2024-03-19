@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 [![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner)-->
 
 ## **My Experiences**
-<details>
-**<summary>Xtract 2.0</summary>**
+<details bold>
+<summary>Xtract 2.0</summary>
 A 6hr Machine Learning and Data science hackathon where we put all our learnings into test  
 </details>
 
