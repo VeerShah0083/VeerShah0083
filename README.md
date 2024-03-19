@@ -44,7 +44,13 @@ Here are some ideas to get you started:
 [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
 [![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner)-->
 
-## ***My Tech Stack***
+## **My Experiences**
+<details>
+<summary>Xtract 2.0</summary>
+A 6hr Machine Learning and Data science hackathon where put our learning on to a test  
+</details>
+
+## **My Tech Stack**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
