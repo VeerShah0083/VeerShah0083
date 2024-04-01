@@ -22,10 +22,9 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/veer_0609_/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/_thevsr_)
 <!--  PROFILE VISIT COUNTER  -->
-  <tr>
+<!--  <tr>
    <p align="top"> <img src="https://komarev.com/ghpvc/?username=VeerShah0083&label=Profile%20views&color=36363b&style=flat" alt="VeerShah0083" /></p>
-  </tr>
-
+  </tr>  -->
 <!--[![Buy me a coffee Badge](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/veershah)-->
 <!--<a href="https://www.buymeacoffee.com/veershah" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="28" width="158"></a>-->
 <!--[![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=codepen)](https://codepen.io/xiaoluoboding)
@@ -51,6 +50,12 @@ Here are some ideas to get you started:
 [![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner)-->
 
 ## **My Experiences**
+<details>
+<summary><strong>SPIT Aeravat 1.0</strong></summary>
+A 24hr AI Hackathon by SPIT alongwith IEEE-Bombay Society where we developed FinLang - a multilinguistic financial security bridge
+</details>
+
+
 <details>
 <summary><strong>Xtract 2.0</strong></summary>
 A 6hr Machine Learning and Data Science Hackathon by DJS S4DS where we put all our learnings into test  
