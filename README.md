@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ## **My Experiences**
 <details>
 <summary><strong>SPIT Aeravat 1.0</strong></summary>
-A 24hr AI Hackathon by SPIT alongwith IEEE-Bombay Society where we developed FinLang - a multilinguistic financial security bridge
+A 24hr AI Hackathon by SPIT alongwith IEEE-Bombay Society where we developed FinLang - a multilingual financial security bridge
 </details>
 
 
