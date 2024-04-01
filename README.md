@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/_thevsr_)
 <!--  PROFILE VISIT COUNTER  -->
   <tr>
-   <p align="top"> <img src="https://komarev.com/ghpvc/?username=lassiecoder&label=Profile%20views&color=36363b&style=flat" alt="lassiecoder" /></p>
+   <p align="top"> <img src="https://komarev.com/ghpvc/?username=VeerShah0083&label=Profile%20views&color=36363b&style=flat" alt="VeerShah0083" /></p>
   </tr>
 
 <!--[![Buy me a coffee Badge](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/veershah)-->
