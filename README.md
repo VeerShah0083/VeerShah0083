@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/veer-shah-real/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/veer_0609_/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/_thevsr_)
+<!--  PROFILE VISIT COUNTER  -->
+  <tr>
+   <p align="top"> <img src="https://komarev.com/ghpvc/?username=lassiecoder&label=Profile%20views&color=36363b&style=flat" alt="lassiecoder" /></p>
+  </tr>
+
 <!--[![Buy me a coffee Badge](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/veershah)-->
 <!--<a href="https://www.buymeacoffee.com/veershah" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="28" width="158"></a>-->
 <!--[![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=codepen)](https://codepen.io/xiaoluoboding)
