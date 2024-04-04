@@ -42,13 +42,6 @@ Here are some ideas to get you started:
 
 
 <!--:writing_hand: 𝙄 𝙡𝙤𝙫𝙚 𝙨𝙝𝙖𝙧𝙞𝙣𝙜 𝙘𝙧𝙚𝙖𝙩𝙞𝙫𝙚 𝙩𝙚𝙘𝙝 𝙨𝙩𝙖𝙘𝙠 𝙩𝙤𝙤𝙡𝙨, 𝙮𝙤𝙪 𝙘𝙖𝙣 𝙘𝙝𝙚𝙘𝙠 [tech-stack.tools](http://github.com/xiaoluoboding/tech-stack.tools) 𝙛𝙤𝙧 𝙢𝙤𝙧𝙚 𝙙𝙚𝙩𝙖𝙞𝙡𝙨.  -->
-
-## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻 _***``` MYSELF ```***_
-
-<!--[![onetab.group](https://svg.bookmark.style/api?url=https://www.onetab.group&mode=light&style=horizontal)](https://onetab.group)
-[![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
-[![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner)-->
-
 ## **My Experiences**
 <details>
 <summary><strong>SPIT Aeravat 1.0</strong></summary>
@@ -60,6 +53,14 @@ A 24hr AI Hackathon by SPIT alongwith IEEE-Bombay Society where we developed Fin
 <summary><strong>Xtract 2.0</strong></summary>
 A 6hr Machine Learning and Data Science Hackathon by DJS S4DS where we put all our learnings into test  
 </details>
+
+
+## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻 _***``` MYSELF ```***_
+
+<!--[![onetab.group](https://svg.bookmark.style/api?url=https://www.onetab.group&mode=light&style=horizontal)](https://onetab.group)
+[![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
+[![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner)-->
+
 
 ## **My Tech Stack**
 
