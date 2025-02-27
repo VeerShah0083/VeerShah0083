@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/xiaoluoboding)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)](https://xlbd.me)-->
 
-𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
+𝑰 ❤️ 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
-:computer: 𝙎𝙚𝙡𝙛-𝙩𝙖𝙪𝙜𝙝𝙩 𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙 <!--𝙁𝙪𝙡𝙡𝙨𝙩𝙖𝙘𝙠--> 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧.
+:computer: 𝙎𝙚𝙡𝙛-𝙩𝙖𝙪𝙜𝙝𝙩 <!--𝙁𝙪𝙡𝙡𝙨𝙩𝙖𝙘𝙠--> 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧.
 
 <!--🖖 𝙑𝙪𝙚.𝙟𝙨 𝙛𝙖𝙣𝙖𝙩𝙞𝙘𝙨 | 🍎 𝙎𝙬𝙞𝙛𝙩 𝙡𝙚𝙖𝙧𝙣𝙚𝙧 | -->
 ☕️ 𝘾𝙤𝙛𝙛𝙚𝙚 𝙡𝙤𝙫𝙚𝙧
@@ -52,6 +52,11 @@ A 24hr AI Hackathon by SPIT alongwith IEEE-Bombay Society where we developed Fin
 <details>
 <summary><strong>Xtract 2.0</strong></summary>
 A 6hr Machine Learning and Data Science Hackathon by DJS S4DS where we put all our learnings into test  
+</details>
+
+<details>
+<summary><strong>MTW Fintech hackathon by NPCI</strong></summary>
+An AI Fintech Hackathon by National Payments Corporation of India(NPCI). Built a RAG chatbot having knowledge base of RBI Circulars
 </details>
 
 
