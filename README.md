@@ -93,3 +93,5 @@ An AI Fintech Hackathon by National Payments Corporation of India(NPCI). Built a
 
 ![VeerShah0083's github stats](https://github-readme-stats.vercel.app/api?username=VeerShah0083&show_icons=true&theme=dracula)
 -->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
